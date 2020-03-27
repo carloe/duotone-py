@@ -6,10 +6,21 @@ Apply [duotone](https://en.wikipedia.org/wiki/Duotone) effects to images with Py
 
 ## Install
 
+### Local
 ```bash
 git clone git@github.com:carloe/duotone.git
 cd duotone
 pip install -e .
+duotone --help
+```
+
+### Docker
+
+```bash
+git clone git@github.com:carloe/duotone.git
+cd duotone
+docker build . -t duotone
+docker run duotone --help
 ```
 
 ## Usage
