@@ -1,6 +1,6 @@
 # DUOTONE
 
-Apply [duotone](https://en.wikipedia.org/wiki/Duotone) effects to images with Python.
+Apply [duotone](https://en.wikipedia.org/wiki/Duotone) effects to images with Python. Also check out the [GPU acceleratedt Swift version](https://github.com/carloe/duotone-swift).
 
 ![Sample](sample.png)
 
